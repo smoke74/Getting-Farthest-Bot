@@ -4,7 +4,7 @@ like getting far bot but better (relatively easy to set up and use, no dependenc
 I recommend to use getting farthest bot and not getting farther bot because getting farther bot is harder to set up and can be used by anyone who has access to it to deafen anyone else on the server, however it can send messages while getting farthest bot cannot (for now).
 
 Setting up and using getting farthest bot (recommended):
-
+========================================================
 after unzipping GettingFarthestBot.rar, just run gettingFarBotGUI.exe, then choose your getting far % (after doing it once it will remember it everytime you run getting farthest bot), press "update settings" and then click on "open server".
 
 copy the code under the buttons and go to discord (both the browser and the discord app work). press ctrl + shift + I and choose the "console" tab and paste the code, and then press enter to run it. you can then close the console and use discord normally.
@@ -12,9 +12,9 @@ copy the code under the buttons and go to discord (both the browser and the disc
 make sure you check the "running" box, and then you should be able to use it.
 
 Setting up getting farther bot (not recommended, see first note):
-
+=================================================================
 important notes:
-
+----------------
 if you are the owner of the server, do not give the channel ids or the bot token to users you don't 100% trust. they can use this info to deafen other people or send messages with the bot, even if they don't have permissions.
 
 if you can't copy the channel ids in the steps below or you can't add the bot to your server, you probably don't have permissions. ask the owner of the server to add the bot and give you the channel ids.
@@ -22,7 +22,7 @@ if you can't copy the channel ids in the steps below or you can't add the bot to
 this version of the bot only works in servers, and has the same features as the original getting far bot (mostly, i'll work on adding some of the minor ones).
 
 steps:
-
+------
 if you don't have a bot on your server yet, make one by going to https://discord.com/developers/applications. click on new application on the top right and give your application a name. then press "Create", and go to the "bot" tab. click on "Add bot" and then "Yes, do it!" and give your bot a name and if you want, a custom icon. click on copy to copy your bot's token. go to OAuth2 and in the OAuth2 URL Generator => scopes, check "bot". under the scopes, in bot permissions, check "send messages" and deafen members. open the url in the scopes menu and choose a server to add the bot to. press continue and authorize. do the captcha and then the bot should be in your server.
 
 unzip GettingFartherBot.rar, and run gettingFarBotGUI.exe.
