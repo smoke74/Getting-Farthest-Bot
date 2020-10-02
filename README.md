@@ -1,7 +1,7 @@
 # Getting-Farthest-Bot
 like getting far bot but better
 
-I recommend to use getting farther bot and not getting farther bot because getting farther bot is harder to set up and can be used by anyone who has access to it to deafen anyone else on the server, however it can send messages while getting farthest bot cannot (for now).
+I recommend to use getting farthest bot and not getting farther bot because getting farther bot is harder to set up and can be used by anyone who has access to it to deafen anyone else on the server, however it can send messages while getting farthest bot cannot (for now).
 
 Setting up and using getting farthest bot:
 
