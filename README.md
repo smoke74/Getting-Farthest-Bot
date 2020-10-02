@@ -15,9 +15,9 @@ Setting up getting farther bot (not recommended, see first note):
 
 important notes:
 
-if you are the owner of the server, do not give the channel id's or the bot tocken to users you don't 100% trust. they can use this info to deafen other people or send messages with the bot, even if they don't have permissions.
+if you are the owner of the server, do not give the channel ids or the bot tocken to users you don't 100% trust. they can use this info to deafen other people or send messages with the bot, even if they don't have permissions.
 
-if you can't copy the channel id's in the steps below or you can't add the bot to your server, you probably don't have permissions. ask the owner of the server to add the bot and give you the channel id's.
+if you can't copy the channel ids in the steps below or you can't add the bot to your server, you probably don't have permissions. ask the owner of the server to add the bot and give you the channel ids.
 
 steps:
 
@@ -25,7 +25,7 @@ if you don't have a bot on your server yet, make one by going to https://discord
 
 unzip GettingFartherBot.rar, and run gettingFarBotGUI.exe.
 
-go to the "id's" tab and paste your bot's tocken. (important: only give the tocken to people you trust, because they can use it to deafen other users or send messages)
+go to the "ids" tab and paste your bot's tocken. (important: only give the tocken to people you trust, because they can use it to deafen other users or send messages)
 
 optional: choose a channel where you want the bot to send messages. right click on it and press "copy id". then paste it in the "channel id (messages)" textbox.
 
