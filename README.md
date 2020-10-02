@@ -7,7 +7,7 @@ Setting up and using getting farthest bot (recommended):
 
 after unzipping GettingFarthestBot.rar, just run gettingFarBotGUI.exe, then choose your getting far % (after doing it once it will remember it everytime you run getting farthest bot), press "update settings" and then click on "open server".
 
-copy the code under the buttons and go to discord (both the browser and the discord app work). press ctrl + shift + I and choose the "console" tab and paste the code, and then press enter to run it.
+copy the code under the buttons and go to discord (both the browser and the discord app work). press ctrl + shift + I and choose the "console" tab and paste the code, and then press enter to run it. you can then close the console and use discord normally.
 
 make sure you check the "running" box, and then you should be able to use it.
 
