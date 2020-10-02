@@ -1,9 +1,9 @@
 # Getting-Farthest-Bot
-like getting far bot but better
+like getting far bot but better (relatively easy to set up and use, no dependencies, only about 10mb, and runs pretty fast).
 
 I recommend to use getting farthest bot and not getting farther bot because getting farther bot is harder to set up and can be used by anyone who has access to it to deafen anyone else on the server, however it can send messages while getting farthest bot cannot (for now).
 
-Setting up and using getting farthest bot:
+Setting up and using getting farthest bot: (does not actually require a bot)
 
 after unzipping GettingFarthestBot.rar, just run gettingFarBotGUI.exe, then choose your getting far % (after doing it once it will remember it everytime you run getting farthest bot), press "update settings" and then click on "open server".
 
