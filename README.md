@@ -3,7 +3,7 @@ like getting far bot but better (relatively easy to set up and use, no dependenc
 
 I recommend to use getting farthest bot and not getting farther bot because getting farther bot is harder to set up and can be used by anyone who has access to it to deafen anyone else on the server, however it can send messages while getting farthest bot cannot (for now).
 
-Setting up and using getting farthest bot: (does not actually require a bot)
+Setting up and using getting farthest bot:
 
 after unzipping GettingFarthestBot.rar, just run gettingFarBotGUI.exe, then choose your getting far % (after doing it once it will remember it everytime you run getting farthest bot), press "update settings" and then click on "open server".
 
@@ -18,6 +18,8 @@ important notes:
 if you are the owner of the server, do not give the channel ids or the bot token to users you don't 100% trust. they can use this info to deafen other people or send messages with the bot, even if they don't have permissions.
 
 if you can't copy the channel ids in the steps below or you can't add the bot to your server, you probably don't have permissions. ask the owner of the server to add the bot and give you the channel ids.
+
+this version of the bot only works in servers, and has the same features as the original getting far bot.
 
 steps:
 
