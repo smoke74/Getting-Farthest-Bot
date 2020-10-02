@@ -15,17 +15,17 @@ Setting up getting farther bot (not recommended, see first note):
 
 important notes:
 
-if you are the owner of the server, do not give the channel ids or the bot tocken to users you don't 100% trust. they can use this info to deafen other people or send messages with the bot, even if they don't have permissions.
+if you are the owner of the server, do not give the channel ids or the bot token to users you don't 100% trust. they can use this info to deafen other people or send messages with the bot, even if they don't have permissions.
 
 if you can't copy the channel ids in the steps below or you can't add the bot to your server, you probably don't have permissions. ask the owner of the server to add the bot and give you the channel ids.
 
 steps:
 
-if you don't have a bot on your server yet, make one by going to https://discord.com/developers/applications. click on new application on the top right and give your application a name. then press "Create", and go to the "bot" tab. click on "Add bot" and then "Yes, do it!" and give your bot a name and if you want, a custom icon. click on copy to copy your bot's tocken. go to OAuth2 and in the OAuth2 URL Generator => scopes, check "bot". under the scopes, in bot permissions, check "send messages" and deafen members. open the url in the scopes menu and choose a server to add the bot to. press continue and authorize. do the captcha and then the bot should be in your server.
+if you don't have a bot on your server yet, make one by going to https://discord.com/developers/applications. click on new application on the top right and give your application a name. then press "Create", and go to the "bot" tab. click on "Add bot" and then "Yes, do it!" and give your bot a name and if you want, a custom icon. click on copy to copy your bot's token. go to OAuth2 and in the OAuth2 URL Generator => scopes, check "bot". under the scopes, in bot permissions, check "send messages" and deafen members. open the url in the scopes menu and choose a server to add the bot to. press continue and authorize. do the captcha and then the bot should be in your server.
 
 unzip GettingFartherBot.rar, and run gettingFarBotGUI.exe.
 
-go to the "ids" tab and paste your bot's tocken. (important: only give the tocken to people you trust, because they can use it to deafen other users or send messages)
+go to the "ids" tab and paste your bot's token. (important: only give the token to people you trust, because they can use it to deafen other users or send messages)
 
 optional: choose a channel where you want the bot to send messages. right click on it and press "copy id". then paste it in the "channel id (messages)" textbox.
 
