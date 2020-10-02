@@ -19,7 +19,7 @@ if you are the owner of the server, do not give the channel ids or the bot token
 
 if you can't copy the channel ids in the steps below or you can't add the bot to your server, you probably don't have permissions. ask the owner of the server to add the bot and give you the channel ids.
 
-this version of the bot only works in servers, and has the same features as the original getting far bot.
+this version of the bot only works in servers, and has the same features as the original getting far bot (mostly, i'll work on adding some of the minor ones).
 
 steps:
 
