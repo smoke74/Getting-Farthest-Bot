@@ -1,5 +1,6 @@
 # Getting-Farthest-Bot
-like getting far bot but better (relatively easy to set up and use, no dependencies, only about 10mb, and runs pretty fast).
+like getting far bot but in C# (relatively easy to set up and use, only about 10mb, and runs pretty fast).
+also credit to gunnerbones for the idea, he made the original one.
 
 I recommend to use getting farthest bot and not getting farther bot because getting farther bot is harder to set up and can be used by anyone who has access to it to deafen anyone else on the server, however it can send messages while getting farthest bot cannot (for now).
 
